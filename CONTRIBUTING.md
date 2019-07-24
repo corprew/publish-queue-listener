@@ -1,6 +1,6 @@
 this project is still very much in progress, so feel free to contribute.  more formal instructions will follow.  
 
-you might want to ping @corprew before spending a lot of time working on something to make sure it isn't already in progress.
+you might want to ping @corprew before spending a lot of time working on something to make sure it isn't already in progress.  there is a non publicly available project planning a lot of this.
 
 be mindful of the [Code of Conduct](CODE_OF_CONDUCT.md).
 
